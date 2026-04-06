@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pandas
 python-dotenv
-scikit-fuzzy
-numpy
-pandas
+scikit-fuzzy==0.4.2
+numpy<2.0
 scipy
+packaging
